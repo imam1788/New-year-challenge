@@ -1,0 +1,108 @@
+.work-sans-marriwater{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+.work-sans-inter{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* banner style*/
+.header{
+
+}
+
+.banner{
+
+}
+
+.banner-info{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:600px;
+  border-radius: 16px;
+  background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url("/images/Banner\ Image.png");
+  display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
+
+.banner-sub-title{
+  color: rgb(255, 255, 255);
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 150px auto 0px;
+}
+
+.banner-title{
+  color: rgb(255, 255, 255);
+  font-family: Merriweather;
+  font-size: 65px;
+  font-weight: 900;
+  line-height: 95px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 15px 320px 150px 320px;
+}
+
+/*this is section1 of main*/
+
+.main1{
+margin: 120px 260px;
+
+}
+
+.section1-div{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ 
+}
+
+.div1-title{
+  color: rgb(255, 0, 0);
+  font-family: Inter;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 107px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0 210px 50px;
+}
+.div1-sub-title{
+  color: rgb(255, 0, 0);
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0 200px 15px;
+}
+
+.div1-description{
+  color: rgb(7, 2, 17);
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0 196px 50px;
+}
+
+.div1-image{
+margin: 0 250px 120px;
+}
